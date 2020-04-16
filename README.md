@@ -4,7 +4,7 @@
 
 ## Task 7.1 Extract selected information from a newspaper webpage
 
-# Q71: Add the above code to your scrapy-lab repository. Add the nytimes.json, containing the output of your execution, to the Lab7 folder of your answers repository. (20% of total grade for this lab session)
+# Q71: Add the above code to your scrapy-lab repository. Add the nytimes.json, containing the output of your execution, to the Lab7 folder of your answers repository. (20% of total grade for this lab session) #
 Updated [here] (https://github.com/ishaanrd/scrapy-lab/blob/master/nyt_scraper/nyt_scraper/spiders/nytimes.py)
 
 
