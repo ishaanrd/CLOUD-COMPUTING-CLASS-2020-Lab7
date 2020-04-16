@@ -4,14 +4,14 @@
 
 ## Task 7.1 Extract selected information from a newspaper webpage
 
-# Q71: Add the above code to your scrapy-lab repository. Add the nytimes.json, containing the output of your execution, to the Lab7 folder of your answers repository. (20% of total grade for this lab session) #
+Q71: Add the above code to your scrapy-lab repository. Add the nytimes.json, containing the output of your execution, to the Lab7 folder of your answers repository. (20% of total grade for this lab session) 
 Updated [here] (https://github.com/ishaanrd/scrapy-lab/blob/master/nyt_scraper/nyt_scraper/spiders/nytimes.py)
 
 
-# Q72: Add the code of the new spider your scrapy-lab repository. Add the imdb.json, containing the output of your execution, to the Lab7 folder of your answers repository. (30% of total grade for this lab session)
+Q72: Add the code of the new spider your scrapy-lab repository. Add the imdb.json, containing the output of your execution, to the Lab7 folder of your answers repository. (30% of total grade for this lab session)
 Updated [here] (https://github.com/ishaanrd/scrapy-lab/blob/master/imdbscraper/imdbscraper/spiders/imdb.py). The yield statement has been commented out as the same spyder code was used for Q74.
 
-# Q73: Take a screenshot of the Kibana Dashboard showing the above plots without filters. Set a couple of filters, take screetshots. Add all the screenshots to the Lab7 folder of your answers repository. (20% of total grade for this lab session)
+Q73: Take a screenshot of the Kibana Dashboard showing the above plots without filters. Set a couple of filters, take screetshots. Add all the screenshots to the Lab7 folder of your answers repository. (20% of total grade for this lab session)
 Below is the screenshot of the dashboard with the 3 visualisations included. We can observe that the most popular actors in the 80s were Richard Nixon , Guy Standeven and Olivia Newton-John. The movie that employed most actors is 'Batman', while the top 10 in the category include 'Superman II' and 'The Shining'. On the annual movies chart below, we notice that 1980 saw the highest number of releases, closely followed by 1989, while 1986 had the fewest releases.
 
 ![Dashboard](images/dash_vanilla.png)
