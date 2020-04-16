@@ -23,10 +23,11 @@ On selecting 1980 (the year with most releases) as a filter, Ralph G. Morse and 
 ![Dashboard2](images/dash_1980.png)
 
 
-# Q74: Explain what you have done in the README.md file of the Lab7 folder of your answers repository, add the new plot. Push the code changes to your scrapy-lab repository (30% of total grade for this lab session)
+Q74: Explain what you have done in the README.md file of the Lab7 folder of your answers repository, add the new plot. Push the code changes to your scrapy-lab repository (30% of total grade for this lab session)
 We are interested in understanding the physical features of actors including their age and height during the 80s. For this purpose, we have scrapped the bio page of actors to obtain these details and prepared a Dashboard that list the tallest actors and youngest actors, alongwith their height and age.
 Please note that the same scraper has been used for this task as in Q73, and hence the yield statments have been commented out.
 
 ![Dashboard3](images/dash_actors.png)
 
-# Q75: How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them? Add your answers to Lab7/README.md of your Lab answers repository.
+Q75: How long have you been working on this session? What have been the main difficulties you have faced and how have you solved them? Add your answers to Lab7/README.md of your Lab answers repository.
+We spent nearly 12 hours on this session. A majority of time was spent in understanding the CSS code on the webpages and writing statements for extracting the required details.
